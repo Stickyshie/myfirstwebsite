@@ -1,0 +1,37 @@
+<html.
+<head><tile>  Challenge 6- table 1 with COLSpan </title> </head>
+</body>
+
+<table border = 1>
+<tr BGCOLOR = ORANGE>
+<tM COLSPAN = "4"> <CENTER> FAST FOOD'S RESTAURANT </CENTER></TH>
+</TR>
+
+<TR BGCOLOR = YELLOW>
+<TH> FAST FOOD'S RESTAURANT </TH>
+<TH> ADDRESS </TD>
+<TH COLSPAN =2> <CENTER> TELEPHONE NUMBER </CENTER> </TH>
+</TR>
+
+<tr BGCOLOR = PINK>
+<td> Mcdonald's </TD>
+<TD> LACSON STREET </TD>
+<TD> 470-9568 </TD>
+<TD> 589-3943 </TD>
+</TR>
+<TR BGCOLOR = GREEN>
+
+<td> JOLLIBEE </TD>
+<TD> HOMESITE </TD>
+<TD> 888-8888 </TD>
+<TD 842-2475 </TD>
+</TR>
+
+<TR BGCOLOR = BLUE>
+
+<TD> KFC </TD>
+<TD> RIVERSIDE </TD>
+<TD> 983-9736 </TD>
+<TD> 023-2865 </TD>
+
+</TR>
